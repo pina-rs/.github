@@ -1,5 +1,9 @@
 # Pina
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pina-rs/.github/main/profile/assets/logo.png" alt="Pina: a woven pineapple with an S at its centre" width="160">
+</p>
+
 Rust libraries and tools for building on Solana, from on-chain programs to browser clients and wallet connections.
 
 The main framework, [Pina](https://github.com/pina-rs/pina), is built on [Pinocchio](https://github.com/anza-xyz/pinocchio). It provides account validation, zero-copy data access, macros, and tools for building and testing programs.
