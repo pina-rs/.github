@@ -17,6 +17,7 @@ The main framework, [Pina](https://github.com/pina-rs/pina), is built on [Pinocc
 | [wasm_solana](https://github.com/pina-rs/wasm_solana)         | A Rust Solana RPC client for WebAssembly, with an in-memory test wallet, testing utilities, and browser examples.                                                                                   |
 | [wallet_standard](https://github.com/pina-rs/wallet_standard) | Rust implementations of the Solana Wallet Standard, including browser wallet discovery, connection, and signing.                                                                                    |
 | [lootbox](https://github.com/pina-rs/lootbox)                 | A random-reward program built with Pina. Includes funded prize bundles, generated clients, and a local web playground.                                                                              |
+| [amm](https://github.com/pina-rs/amm)                         | A permissionless constant-product market maker for Solana, built with Pina.                                                                                                                         |
 
 ## Where to start
 
