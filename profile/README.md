@@ -1,7 +1,11 @@
 # Pina
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pina-rs/.github/main/profile/assets/logo.png" alt="Pina: a woven pineapple with an S at its centre" width="160">
+	<img
+		src="https://raw.githubusercontent.com/pina-rs/.github/main/profile/assets/logo.png"
+		alt="Pina: a woven pineapple with an S at its centre"
+		width="160"
+	>
 </p>
 
 Rust libraries and tools for building on Solana, from on-chain programs to browser clients and wallet connections.
@@ -18,6 +22,7 @@ The main framework, [Pina](https://github.com/pina-rs/pina), is built on [Pinocc
 | [wallet_standard](https://github.com/pina-rs/wallet_standard) | Rust implementations of the Solana Wallet Standard, including browser wallet discovery, connection, and signing.                                                                                    |
 | [lootbox](https://github.com/pina-rs/lootbox)                 | A random-reward program built with Pina. Includes funded prize bundles, generated clients, and a local web playground.                                                                              |
 | [amm](https://github.com/pina-rs/amm)                         | A permissionless constant-product market maker for Solana, built with Pina.                                                                                                                         |
+| [bonding_curve](https://github.com/pina-rs/bonding_curve)     | A project for token launches using segmented price curves that graduate into the Pina AMM.                                                                                                          |
 
 ## Where to start
 
