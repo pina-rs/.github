@@ -23,6 +23,6 @@ The main framework, [Pina](https://github.com/pina-rs/pina), is built on [Pinocc
 
 Pina is still hardening, and Lootbox is experimental. Read each project's release status and security notes before using it with real funds.
 
-For bugs and feature requests, open an issue in the relevant repository. Report security issues using that repository's security policy; Pina's is [here](https://github.com/pina-rs/pina/blob/main/SECURITY.md).
+For bugs and feature requests, open an issue in the relevant repository. For vulnerabilities in the Pina framework, follow the [Pina security policy](https://github.com/pina-rs/pina/blob/main/SECURITY.md).
 
 This organisation profile is maintained in [`.github`](https://github.com/pina-rs/.github).
